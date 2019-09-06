@@ -3,7 +3,7 @@
 ## Details
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Capacity
 
 ### Rating
 I rate games on a scale of 1 to 10, I give this game ...
@@ -15,4 +15,4 @@ This game is about... this should be at least 3-4 paragraphs summarising the gam
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+https://heptad.itch.io/capacity
