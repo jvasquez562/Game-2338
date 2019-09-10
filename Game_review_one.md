@@ -4,7 +4,7 @@
 
 ### Game Title
 Capacity
-
+https://heptad.itch.io/capacity
 ### Rating
 I rate games on a scale of 1 to 10, I give this game 6 out of 10.
 
