@@ -6,13 +6,12 @@
 Capacity
 
 ### Rating
-I rate games on a scale of 1 to 10, I give this game ...
+I rate games on a scale of 1 to 10, I give this game 6 out of 10.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
-
+In this game you are tasked with saving a friend from a dark place, but at times you woder if it is worth it or not because of the pain he has caused you. The main character is a female protaganist.
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+I enjoyed the story of the game. the controls were lacking a little not much for the user to do but read and hit continue. 
 
 ## Additional Information
 https://heptad.itch.io/capacity
