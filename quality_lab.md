@@ -1,7 +1,10 @@
 ## game
 Halo 2 
+
 Minecraft
+
 Mario Party 4
+
 ## Details
 Halo - I agree with this game because this game is highly replayable.
 
