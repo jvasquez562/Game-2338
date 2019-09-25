@@ -3,7 +3,7 @@
 ## Details
 
 ### Game Title
-Dirt $
+Dirt 4
 
 ### Rating
 I give this game a 8.5 out of 10
