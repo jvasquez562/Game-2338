@@ -1,18 +1,17 @@
-# Game Review for (GAME TITLE)
+# Game Review for Dirt 4
 
 ## Details
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Dirt $
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
-
+I give this game a 8.5 out of 10
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
-
+  Dirt 4 has really good game play, the controls are easy to use for just about any player that feels like playing something different. Dirt has two different types of driving styles, one being for more for the casual player and another for someone who likes more of a challenge. 
+  Dirt 4's track edit is simple to use, all it really consist of is sliders to edit track length, difficulty, and enviorment that the track will be located. There are plenty of cars to choose from and various styles. I'd say that this game is more for gamers that enjoy racing games but want something a little different than forza or gran tourismo. 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+I really enjoyed playing this game because it was challeging and offered something different then the racing games that I was used to playing. 
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+
