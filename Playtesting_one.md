@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for Murder Mystery Machine
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Game Publisher Blazing Griffin
+* Game Rating T for teen 
+https://www.murdermysterymachine.com
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
