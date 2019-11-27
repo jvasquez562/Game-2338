@@ -1,4 +1,4 @@
-x# Game Review for 
+## Game Review for 
 
 ## Details
 
